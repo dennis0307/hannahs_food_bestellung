@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pommes Spezial",
+    "description": "Knusprige Pommes mit Ketchup und Mayo und Zwiebeln",
+    "tags": [
+      "Snack",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "name": "Frühlingsrollen",
+    "description": "Knusprige Rollen mit Gemüse- und Fleischfüllung",
+    "tags": [
+      "Asiatisch",
+      "Snack"
+    ]
+  },
+  {
+    "name": "Lasagne",
+    "description": "Klassische Lasagne mit Veggie Hack",
+    "tags": [
+      "Pasta",
+      "Fleisch",
+      "Italienisch"
+    ]
+  },
+  {
+    "name": "Couscous Salat",
+    "description": "Leichter Salat mit Couscous, Gemüse und Kräutern",
+    "tags": [
+      "Vegetarisch",
+      "Salat",
+      "Leicht"
+    ]
+  },
+  {
+    "name": "Wraps",
+    "description": "Gefüllte Wraps mit frischem Gemüse und Soße",
+    "tags": [
+      "Schnell",
+      "Vegetarisch"
+    ]
+  }
+]
